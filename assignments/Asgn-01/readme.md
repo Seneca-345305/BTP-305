@@ -268,7 +268,7 @@ Upload the source code to your `matrix` account. Compile and run your code using
 Then, run the following command from your account (replace `profname.proflastname` with your professor’s Seneca userid):
 
   ```bash
-  ~profname.proflastname/submit 345/asgn1
+  ~profname.proflastname/submit 305/asgn1
   ```
 
 and follow the instructions.
