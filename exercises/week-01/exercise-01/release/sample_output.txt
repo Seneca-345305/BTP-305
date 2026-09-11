@@ -1,6 +1,6 @@
 Command Line:
 --------------------------
-  1: ws
+  1: ./ws
   2: day1.txt
   3: missing.txt
   4: day2.txt

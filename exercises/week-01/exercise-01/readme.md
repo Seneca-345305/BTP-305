@@ -24,7 +24,7 @@ Upon successful completion of this exercise, you will have demonstrated the abil
 All your code should be compiled using this command on `matrix`:
 
 ```bash
-/usr/local/gcc/10.2.0/bin/g++ -Wall -std=c++17 -g -o ws file1.cpp file2.cpp ...
+/usr/local/gcc/13.2.0/bin/g++ -Wall -std=c++17 -g -o ws file1.cpp file2.cpp ...
 ```
 
 - `-Wall`: compiler will report all warnings
@@ -35,7 +35,7 @@ All your code should be compiled using this command on `matrix`:
 After compiling and testing your code, run your program as following to check for possible memory leaks (assuming your executable name is `ws`):
 
 ```bash
-valgrind --show-error-list=yes --leak-check=full --show-leak-kinds=all --track-origins=yes ws
+valgrind --show-error-list=yes --leak-check=full --show-leak-kinds=all --track-origins=yes ./ws
 ```
 
 - `--show-error-list=yes`: show the list of detected errors
@@ -138,7 +138,7 @@ The input files `day1.txt` and `day2.txt` are already provided; the main module 
 When the program is started with the command:
 
   ```bash
-  ws day1.txt missing.txt day2.txt
+  ./ws day1.txt missing.txt day2.txt
   ```
 
 the output should look like the one from the `sample_output.txt` file.

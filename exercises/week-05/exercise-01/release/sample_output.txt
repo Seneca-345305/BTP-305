@@ -1,6 +1,6 @@
 Command Line:
 --------------------------
-  1: ws
+  1: ./ws
   2: emails.csv
   3: identities.txt
   4: spam.txt

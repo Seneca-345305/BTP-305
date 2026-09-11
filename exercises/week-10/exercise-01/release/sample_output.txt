@@ -1,6 +1,6 @@
 Command Line:
 --------------------------
-  1: ws
+  1: ./ws
   2: data_int.bin
   3: data_int_target.bin
 --------------------------

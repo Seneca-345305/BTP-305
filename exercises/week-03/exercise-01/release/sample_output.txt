@@ -1,6 +1,6 @@
 Command Line:
 --------------------------
-  1: ws
+  1: ./ws
 --------------------------
 
 >>>  T1: Testing the Collection of Integers
