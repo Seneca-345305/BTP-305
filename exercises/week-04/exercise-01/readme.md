@@ -231,11 +231,11 @@ The input file `data.txt` is provided.
 
 When the program is started with the command:
 
-```bash
-ws data.txt
-```
+  ```bash
+  ./ws data.txt
+  ```
 
-the output should look like the one from the `sample_output.txt` file.
+  the output should look like the one from the `sample_output.txt` file.
 
 > [!CAUTION]
 > Please note that a matching output is not a guarantee that the program is bug-free; it only means that in the specific tests this tester performed, no bugs/issues were identified. It is possible to write a tester that looks at other aspects of your code that will reveal bugs.

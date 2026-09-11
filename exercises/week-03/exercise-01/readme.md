@@ -163,7 +163,7 @@ No other members need to be added to this class.
 When the program is started with the command:
 
   ```bash
-  ws
+  ./ws
   ```
 
   the output should look like the one from the `sample_output.txt` file.

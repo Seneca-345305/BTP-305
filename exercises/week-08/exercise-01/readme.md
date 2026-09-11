@@ -143,11 +143,11 @@ When doing the workshop, you are encouraged to write your own tests, focusing on
 
 When the program is started with the command (the files are provided):
 
-```bash
-ws songs.txt
-```
+  ```bash
+  ./ws songs.txt
+  ```
 
-the output should look like the one from the `sample_output.txt` file.
+  the output should look like the one from the `sample_output.txt` file.
 
 
 

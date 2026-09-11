@@ -167,11 +167,11 @@ When doing the exercise, you are encouraged to write your own tests, focusing on
 
 When the program is started with the command:
 
-```bash
-ws data_str.txt data_num.txt
-```
+  ```bash
+  ./ws data_str.txt data_num.txt
+  ```
 
-the output should look like the one from the `sample_output_run_1.txt` and `sample_output_run_2.txt` files in two consecutive runs.
+  the output should look like the one from the `sample_output_run_1.txt` and `sample_output_run_2.txt` files in two consecutive runs.
 
 
 

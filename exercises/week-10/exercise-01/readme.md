@@ -108,9 +108,9 @@ When doing the exercise, you are encouraged to write your own tests, focusing on
 
 When the program is started with the command (the input file is provided):
 
-```bash
-ws data_int.bin data_int_target.bin
-```
+  ```bash
+  ./ws data_int.bin data_int_target.bin
+  ```
 
 the output should look like the one from the `sample_output.txt` file.
 

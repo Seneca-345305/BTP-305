@@ -156,7 +156,7 @@ The input file `protein_sequences.txt` is already provided.
 When the program is started with the command:
 
 ```bash
-ws protein_sequences.txt
+./ws protein_sequences.txt
 ```
 
 the output should look like the one from the `sample_output.txt` file.

@@ -54,7 +54,7 @@ To check the output, use a program that can compare text files.  Search online f
 
 ## A Mailing System
 
-???
+In this program you will create a program that simulates an email server managing the inbox of a single user. The program will load the set of emails from a text file. The program will implement a plugin architecture; each plugin can process the messages and transform them based on the functionality the plugin offers.
 
 Enclose all your source code within the `seneca` namespace and include the necessary guards in each header file.
 
@@ -203,7 +203,7 @@ This module has some missing statements. The missing parts are marked with `TODO
 When the program is started with the command (the files `emails.csv`, `identities.txt`, `spam.txt` is provided):
 
   ```bash
-  ws emails.csv identities.txt spam.txt
+  ./ws emails.csv identities.txt spam.txt
   ```
 
   the output should look like that is the `sample_output.txt` file.

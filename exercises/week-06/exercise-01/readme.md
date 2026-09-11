@@ -267,11 +267,11 @@ Add any other private members that your design requires.
 
 When the program is started with the command (the files are provided):
 
-```bash
-ws filesystem.txt
-```
+  ```bash
+  ./ws filesystem.txt
+  ```
 
-the output should look like the one from the `sample_output.txt` file.
+  the output should look like the one from the `sample_output.txt` file.
 
 
 
